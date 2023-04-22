@@ -87,7 +87,7 @@ body {
     color: #888;
     display: none;
     width: 56%;
-    flex-grow: 1
+    flex-grow: 1;
 }
 .section__input_text:focus {
     color: #333;
@@ -129,7 +129,7 @@ body {
     width: 226px;
     width: 56%;
     display: inline-block;
-    flex-grow: 1
+    flex-grow: 1;
 }
 
 .section__icon {
@@ -145,7 +145,7 @@ body {
 /* Completed */
 
 .section__list_complete .section__item .section__label {
-    text-decoration: line-through
+    text-decoration: line-through;
     color: #888;
 }
 
@@ -153,7 +153,7 @@ body {
 
 .section__item_edit .section__input_text {
     display: inline-block;
-    width: 224px
+    width: 224px;
 }
 
 .section__item_edit .section__label {
