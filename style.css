@@ -40,12 +40,12 @@ body {
 }
 
 .section__list {
-    margin:0;
+    margin: 0;
     padding: 0px;
 }
 
 .section__input{
-    outline:none;
+    outline: none;
 }
 
 .section__button {
@@ -152,10 +152,10 @@ body {
 /* Edit Task */
 
 .section__item_edit .section__input_text {
-    display:inline-block;
-    width:224px
+    display: inline-block;
+    width: 224px
 }
 
 .section__item_edit .section__label {
-    display:none;
+    display: none;
 }
